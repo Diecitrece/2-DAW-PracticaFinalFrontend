@@ -13,5 +13,5 @@ export default function reviewConverter(reviewAverage)
     {
       reviewTotal += '<i className="fas fa-star-half-alt"></i>';
     }
-    return reviewTotal+=</>;
+    return reviewTotal+="</>";
 }
